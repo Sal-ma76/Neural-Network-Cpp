@@ -1,0 +1,9 @@
+# Ignore build output
+ann.exe
+ann
+*.o
+*.obj
+*.log
+
+# VS Code settings
+.vscode/
