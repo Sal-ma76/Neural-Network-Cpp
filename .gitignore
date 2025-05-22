@@ -5,5 +5,16 @@ ann
 *.obj
 *.log
 
+# CMake build directories
+/build/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
 # VS Code settings
 .vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
